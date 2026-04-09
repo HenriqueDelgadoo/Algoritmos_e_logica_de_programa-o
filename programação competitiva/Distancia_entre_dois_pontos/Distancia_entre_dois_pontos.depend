@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1774563667 source:c:\users\henrique\desktop\programação competitiva\distancia_entre_dois_pontos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

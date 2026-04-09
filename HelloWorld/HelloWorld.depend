@@ -1,6 +1,8 @@
 # depslib dependency file v1.0
-1774378257 source:c:\users\henrique\desktop\algoritmos_e_logica_de_programa-o\helloworld\main.c
+1774469173 source:c:\users\henrique\desktop\algoritmos_e_logica_de_programa-o\helloworld\main.c
 	<stdio.h>
 	<stdlib.h>
+	<conio.h>
 	<locale.h>
+	<windows.h>
 

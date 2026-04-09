@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1774566901 source:c:\users\henrique\desktop\programação competitiva\cedulas\main.c
+	<stdio.h>
+	<stdlib.h>
+

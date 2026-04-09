@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1774640282 source:c:\users\henrique\desktop\programação competitiva\bhaskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
